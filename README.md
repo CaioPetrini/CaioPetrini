@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi, I'm Caio 👋
 
+Back-End Developer focused on Java and Spring Boot.
+
+Currently building APIs and cloud-based applications.
+
+**Stack:** Java • Spring Boot • SQL • AWS • Docker • Git
 <!--
 **CaioPetrini/CaioPetrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
